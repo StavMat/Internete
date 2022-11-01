@@ -1,0 +1,15 @@
+h1 {
+   text-align: center;
+   background-color: blue;
+   font-size: 28px;
+   font-family: Arial;
+   text-shadow: 3px 3px 6px #FFFF00;
+}
+
+p {
+	font: 16px Tahoma;
+}
+
+.centrovany {
+  	text-align: center
+}
